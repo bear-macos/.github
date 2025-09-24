@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/imgres?q=bear%20mac%20os%20logo&imgurl=https%3A%2F%2Fcdn.jim-nielsen.com%2Fmacos%2F512%2Fbear-2018-10-26.png%3Frf%3D1024&imgrefurl=https%3A%2F%2Fwww.macosicongallery.com%2Ficons%2Fbear-2018-10-26%2F&docid=S63H-m_kIA7CvM&tbnid=4v_HaMgiCl7m6M&vet=12ahUKEwiM7__KtvCPAxUC7QIHHW5HH4AQM3oECCAQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwiM7__KtvCPAxUC7QIHHW5HH4AQM3oECCAQAA" alt="Bear Logo" width="200" />
+  <img src="https://github.com/user-attachments/assets/4ff902d0-c350-49e8-a419-ca0252bb8bb2" alt="Bear Logo" width="200" />
 </p>
 
 <h1 align="center">🐻 Bear for Mac — Free Download</h1>
